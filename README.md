@@ -2,7 +2,7 @@
 
 <h3 align="center"><strong>💗 Nos da gusto que te intereses en este proyecto</strong></h3>
 
-El objetivo principal del aplicativo es poder disponer de una documentación cómo ejemplo para la estructuración de un proyecto en react utilizando el super set de typescript, mi arquitectura de carpetas, con patrones de componentes, servicios, hooks personalizados, patron Redux, manejo de excepciones, y utilizando Sass cómo preprocesador CSS para hojas de estilo. 
+El objetivo principal del aplicativo es poder disponer de una documentación cómo ejemplo para la estructuración de un proyecto en react utilizando el super set de typescript, mi arquitectura de carpetas, con patrones de componentes, servicios, hooks personalizados, patron Redux, manejo de excepciones, Lazy Load, Paginación, Enrutamiento, filtrados dinámicos, y utilizando Sass cómo preprocesador CSS para hojas de estilo. 
 
 # Estado del Proyecto:
 
